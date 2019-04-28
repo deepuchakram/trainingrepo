@@ -1,0 +1,57 @@
+https://github.com/SK12K/SL-DOCShttps://github.com/SK12K/SL-DOCS
+https://termius.com/
+
+https://github.com/sk12k/sl-docs
+
+https://github.com/sk12k/tr-files
+
+https://github.com/vgprakash4u/Prakash.git 
+
+root@ip-172-31-89-92:~/gittest/test# git push "https://github.com/vgprakash4u/Prakash.git"
+
+
+from Sharique (Faculty) to All Participants:
+https://m.do.co/c/7a4461a50be1
+
+from Anshuljain1601 to All Participants:
+https://github.com/sk12k/sl-docs
+
+
+
+
+27 april 2019
+https://d1.awsstatic.com/whitepapers/AWS_DevOps.pdf
+
+
+https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+
+https://pkg.jenkins.io/debian-stable/
+
+https://github.com/sk12k/tr-files/blob/master/jenkins/Jenkins%20Installation%20and%20Configuration.pdf
+
+
+Get:1 http://mirrors.digitalocean.com/ubuntu 
+
+
+echo "deb https://pkg.jenkins.io/debian-stable binary/" >> /etc/apt/sources.list
+
+
+wget --no-check-certificate -qO - http://pkg.jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add - what does this command actually do 
+
+http://139.59.41.31:8080  -dashboard
+
+MYlocalhost:  172.26.13.1:8080 deepu deepu
+guest
+simplilearn123
+157.230.128.52:8080
+
+
+
+https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/
+
+https://www.geeksforgeeks.org/crontab-in-linux-with-examples/
+
+https://chocolatey.org/
+
+
+https://www.guru99.com/levels-of-testing.html
