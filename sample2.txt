@@ -1,3 +1,3 @@
-echo "welcome"
-this is a sample file 
-to pull these changes in to local.
+links
+links
+start /n stop/n hold/m
